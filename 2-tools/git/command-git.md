@@ -101,6 +101,17 @@ git config --global user.name global-name
 git config --global user.email global-email
 ```
 
-## Change Commit Message
+## Edit Commit Message
+
+**Step 1**: Use the `--amend` option to open an interactive shell for editing
+commit message.
+
+<u>Example</u>: Command
+
+```shell
+git commit --amend
+```
+
+**Step 2**: Edit the commit message in the opened window.
 
 ## Merge Multiple Commits
