@@ -6,7 +6,7 @@
 
 By default, column titles are center-aligned, and column contents are left-aligned.
 
-Example: Syntax
+<u>Example</u>: Syntax
 
 ```markdown
 | Column Title 1 | Column Title 2 |
@@ -14,7 +14,7 @@ Example: Syntax
 | Content        | Content        |
 ```
 
-Example: Output
+<u>Example</u>: Output
 
 | Column Title 1 | Column Title 2 |
 | -------------- | -------------- |
@@ -22,7 +22,7 @@ Example: Output
 
 ## Left-Aligned Columns
 
-Example: Syntax
+<u>Example</u>: Syntax
 
 ```markdown
 | Column Title 1 | Column Title 2 |
@@ -30,7 +30,7 @@ Example: Syntax
 | Content 1      | Content 2      |
 ```
 
-Example: Output
+<u>Example</u>: Output
 
 | Column Title 1 | Column Title 2 |
 | :------------- | :------------- |
@@ -38,7 +38,7 @@ Example: Output
 
 ## Right-Aligned Columns
 
-Example: Syntax
+<u>Example</u>: Syntax
 
 ```markdown
 | Column Title 1 | Column Title 2 |
@@ -46,7 +46,7 @@ Example: Syntax
 | Content 1      | Content 2      |
 ```
 
-Example: Output
+<u>Example</u>: Output
 
 | Column Title 1 | Column Title 2 |
 | -------------: | -------------: |
@@ -54,7 +54,7 @@ Example: Output
 
 ## Center-Aligned Columns
 
-Example: Syntax
+<u>Example</u>: Syntax
 
 ```markdown
 | Column Title 1 | Column Title 2 |
@@ -62,7 +62,7 @@ Example: Syntax
 | Content 1      | Content 2      |
 ```
 
-Example: Output
+<u>Example</u>: Output
 
 | Column Title 1 | Column Title 2 |
 | :------------: | :------------: |
