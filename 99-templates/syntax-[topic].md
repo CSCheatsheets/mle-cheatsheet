@@ -16,13 +16,13 @@
 
 [Concise explanations of the syntax.]
 
-Example: Syntax
+<u>Example</u>: Syntax
 
 ```[Language]
 # [Comment.]
 [Syntax]
 ```
 
-Example: Output
+<u>Example</u>: Output
 
 [Output.]
