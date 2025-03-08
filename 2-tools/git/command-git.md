@@ -11,85 +11,81 @@ Show git configurations.
 # (`~/.gitconfig`), and system-global (`/Library/Developer/CommandLineTools/usr/share/git-core/gitconfig`).
 git config --list
 
+# Output 1
+# credential.helper=osxkeychain
+# init.defaultbranch=main
+# user.name=global-name
+# user.email=global-email
+# core.repositoryformatversion=0
+# core.filemode=true
+# core.bare=false
+# core.logallrefupdates=true
+# core.ignorecase=true
+# core.precomposeunicode=true
+# remote.origin.url=https://github.com/TechDailyNotes/study-notes-development-cheatsheets.git
+# remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+# branch.main.remote=origin
+# branch.main.merge=refs/heads/main
+# branch.main.vscode-merge-base=origin/main
+# branch.main.vscode-merge-base=origin/main
+# user.name=local-name
+# user.email=local-email
+
 # Command 2: Show git configurations in the local git repo (`./.git/config`).
 git config --list --local
+
+# Output 2
+# core.repositoryformatversion=0
+# core.filemode=true
+# core.bare=false
+# core.logallrefupdates=true
+# core.ignorecase=true
+# core.precomposeunicode=true
+# remote.origin.url=https://github.com/TechDailyNotes/study-notes-development-cheatsheets.git
+# remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+# branch.main.remote=origin
+# branch.main.merge=refs/heads/main
+# branch.main.vscode-merge-base=origin/main
+# branch.main.vscode-merge-base=origin/main
+# user.name=local-name
+# user.email=local-email
 
 # Command 3: Show git configurations in the global git configuration file (`~/.gitconfig`).
 git config --list --global
 
+# Output 3
+# user.name=global-name
+# user.email=global-email
+
 # Command 4: Show origins (path to configuration files) of git configurations.
 git config --list --show-origin
-```
 
-<u>Example</u>: Output
-
-```text
-# Command 1: `git config --list`
-credential.helper=osxkeychain
-init.defaultbranch=main
-user.name=global-name
-user.email=global-email
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-core.ignorecase=true
-core.precomposeunicode=true
-remote.origin.url=https://github.com/TechDailyNotes/study-notes-development-cheatsheets.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.main.remote=origin
-branch.main.merge=refs/heads/main
-branch.main.vscode-merge-base=origin/main
-branch.main.vscode-merge-base=origin/main
-user.name=local-name
-user.email=local-email
-
-# Command 2: `git config --list --local`
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-core.ignorecase=true
-core.precomposeunicode=true
-remote.origin.url=https://github.com/TechDailyNotes/study-notes-development-cheatsheets.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.main.remote=origin
-branch.main.merge=refs/heads/main
-branch.main.vscode-merge-base=origin/main
-branch.main.vscode-merge-base=origin/main
-user.name=local-name
-user.email=local-email
-
-# Command 3: `git config --list --global`
-user.name=global-name
-user.email=global-email
-
-# Command 4: `git config --list --show-origin`
-file:/Library/Developer/CommandLineTools/usr/share/git-core/gitconfig   credential.helper=osxkeychain
-file:/Library/Developer/CommandLineTools/usr/share/git-core/gitconfig   init.defaultbranch=main
-file:/Users/feicheng/.gitconfig user.name=global-name
-file:/Users/feicheng/.gitconfig user.email=global-email
-file:.git/config        core.repositoryformatversion=0
-file:.git/config        core.filemode=true
-file:.git/config        core.bare=false
-file:.git/config        core.logallrefupdates=true
-file:.git/config        core.ignorecase=true
-file:.git/config        core.precomposeunicode=true
-file:.git/config        remote.origin.url=https://github.com/TechDailyNotes/study-notes-development-cheatsheets.git
-file:.git/config        remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-file:.git/config        branch.main.remote=origin
-file:.git/config        branch.main.merge=refs/heads/main
-file:.git/config        branch.main.vscode-merge-base=origin/main
-file:.git/config        branch.main.vscode-merge-base=origin/main
-file:.git/config        user.name=local-name
-file:.git/config        user.email=local-email
+# Output 4
+# file:/Library/Developer/CommandLineTools/usr/share/git-core/gitconfig   credential.helper=osxkeychain
+# file:/Library/Developer/CommandLineTools/usr/share/git-core/gitconfig   init.defaultbranch=main
+# file:/Users/feicheng/.gitconfig user.name=global-name
+# file:/Users/feicheng/.gitconfig user.email=global-email
+# file:.git/config        core.repositoryformatversion=0
+# file:.git/config        core.filemode=true
+# file:.git/config        core.bare=false
+# file:.git/config        core.logallrefupdates=true
+# file:.git/config        core.ignorecase=true
+# file:.git/config        core.precomposeunicode=true
+# file:.git/config        remote.origin.url=https://github.com/TechDailyNotes/study-notes-development-cheatsheets.git
+# file:.git/config        remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+# file:.git/config        branch.main.remote=origin
+# file:.git/config        branch.main.merge=refs/heads/main
+# file:.git/config        branch.main.vscode-merge-base=origin/main
+# file:.git/config        branch.main.vscode-merge-base=origin/main
+# file:.git/config        user.name=local-name
+# file:.git/config        user.email=local-email
 ```
 
 ## Set Git Config
 
 Set git configurations.
 
-<u>Example</u>: Syntax
+<u>Example</u>: Command
 
 ```shell
 # Command 1: Set local user name.

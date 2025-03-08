@@ -9,12 +9,12 @@ Allow usage of specific HTML tags in markdown files.
 <u>Example</u>: Syntax
 
 ```json
-# File name: `.markdownlint.json` / `.markdownlint.jsonc`.
+"""
+File name: `.markdownlint.json` / `.markdownlint.jsonc`.
+"""
+
+# Syntax 1: Allow usage of `<u></u>` in markdown files.
 {
     "MD033": {"allowed_elements": ["u"]}
 }
 ```
-
-<u>Example</u>: Output
-
-Allow usage of `<u></u>` in markdown files.
