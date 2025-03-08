@@ -19,7 +19,3 @@ echo "Hello World!" > ./hello.txt
 # Example
 echo "Hello World!" >> ./hello.txt
 ```
-
----
-
-[back](../0-linux/README.md)

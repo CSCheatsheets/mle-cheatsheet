@@ -1,7 +1,3 @@
-# Linux
+# linux
 
-[Command: redirection](./command-redirection.md)
-
----
-
-[back](../README.md)
+- [command-redirection](./command-redirection.md)
