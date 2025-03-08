@@ -1,4 +1,4 @@
-# Concept - `[Topic]`
+# Command - `[Topic]`
 
 ## [Title Level 1]
 
@@ -12,6 +12,14 @@
 
 **[Title Level X]**
 
-[Concise explanations of the concept.]
+[Concise explanations of the command.]
 
-[contents]
+Example: Command
+
+```shell
+[Command]
+```
+
+Example: Output
+
+[Output]
