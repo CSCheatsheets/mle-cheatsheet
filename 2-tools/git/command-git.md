@@ -112,6 +112,34 @@ commit message.
 git commit --amend
 ```
 
-**Step 2**: Edit the commit message in the opened window.
+**Step 2**: In the interactive shell, edit the commit message.
 
 ## Merge Multiple Commits
+
+Rebase/Squash/Merge multiple commits.
+
+**Step 1**: Use the `-i` option to open an interactive shell for editing commit
+message, and specify the number of commits to merge.
+
+<u>Example</u>: Command
+
+```shell
+# Command 1
+git rebase -i HEAD~[number_of_commits]
+
+# Example 1
+git rebase -i HEAD~2
+```
+
+**Step 2**: In the interactive shell, change leading `pick` to `s` to squash
+selected commits, while keeping the leading `pick` to choose the base commit.
+Then save the change.
+
+<u>Example</u>: Command
+
+```text
+pick
+s
+```
+
+**Step 3**: In the interactive shell, edit the message for merged commits.
