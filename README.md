@@ -1,2 +1,3 @@
-# study-notes-development-cheatsheets
+# Development Cheatsheets
+
 Cheatsheets of development tools/services/frameworks/libraries.
