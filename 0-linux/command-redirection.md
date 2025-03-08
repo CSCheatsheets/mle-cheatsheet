@@ -3,19 +3,19 @@
 ## Redirect Console Outputs to Overwrite a File
 
 ```shell
-# Command 1
+# Command
 [some_command] > [file_name]
 
-# Example 1
+# Example
 echo "Hello World!" > ./hello.txt
 ```
 
 ## Redirect Console Outputs to Append to a File
 
 ```shell
-# Command 1
+# Command
 [some_command] >> [file_name]
 
-# Example 1
+# Example
 echo "Hello World!" >> ./hello.txt
 ```

@@ -1,4 +1,4 @@
-# Command - `git`
+# Command - `git config`
 
 ## Show Git Config
 
@@ -97,66 +97,4 @@ git config --global user.name global-name
 git config --global user.email global-email
 ```
 
-## Edit Commit Message
-
-**Step 1**: Use the `--amend` option to open an interactive shell for editing
-commit message.
-
-```shell
-git commit --amend
-```
-
 **Step 2**: In the interactive shell, edit the commit message.
-
-## Merge Multiple Commits
-
-Rebase/Squash/Merge multiple commits.
-
-**Step 1**: Use the `-i` option to open an interactive shell for editing commit
-message, and specify the number of commits to merge.
-
-```shell
-# Command 1
-git rebase -i HEAD~[number_of_commits]
-
-# Example 1
-git rebase -i HEAD~2
-```
-
-**Step 2**: In the interactive shell, change leading `pick` to `s` to squash
-selected commits, while keeping the leading `pick` to choose the base commit.
-Then save the change.
-
-```text
-pick 3ac3a7b Add steps in example formats in templates
-pick 688e5d6 Add
-
-# Change to ...
-
-# Keep this commit as the base commit.
-pick 3ac3a7b Add steps in example formats in templates
-# Merge this commit into the base commit.
-s 688e5d6 Add
-```
-
-**Step 3**: In the interactive shell, edit the message for merged commits.
-
-## Create an Orphan Branch
-
-Create an orphan branch with no commit histories and no contexts, which looks
-like a clean new repository. It can be used as the main branch for the GitHub page.
-
-```shell
-# Command 1: Use `checkout` in older Git versions.
-git checkout --orphan new-branch
-
-# Example 1
-git checkout --orphan new-branch
-git rm -rf .  # Remove all the tracked files.
-echo "Hello World!" > README.md
-git add .
-git commit -m "Initial commit"
-
-# Command 2: Use `switch` in newer Git versions.
-git switch --orphan new-branch
-```
