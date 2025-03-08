@@ -1,4 +1,4 @@
-# menu
+<!-- # menu
 
 - 0-linux
   - [command-redirection](./0-linux/command-redirection.md)
@@ -29,4 +29,4 @@
 - 4-libraries
 - 5-systems
   - distributed-system
-    - [concept-parallellism](./5-systems/distributed-system/concept-parallelism.md)
+    - [concept-parallellism](./5-systems/distributed-system/concept-parallelism.md) -->
