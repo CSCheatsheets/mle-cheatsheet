@@ -28,9 +28,9 @@ url: "https://mle-cheatsheet.github.io" # the base hostname & protocol for your 
 github_username:  ChengaFEI
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
