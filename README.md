@@ -2,4 +2,4 @@
 
 ## Menu
 
-[linux](./0-linux/)
+[linux](./0-linux/index.md)
