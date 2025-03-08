@@ -16,4 +16,4 @@
 
 [Concise explanations of the concept.]
 
-[contents.]
+[Contents.]

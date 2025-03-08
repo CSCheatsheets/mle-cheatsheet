@@ -19,6 +19,10 @@
 <u>Example</u>: Syntax
 
 ```[Language]
+"""
+File name: `[File name]`
+"""
+
 # Syntax 1: [Comment.]
 [Syntax]
 

@@ -19,6 +19,10 @@
 <u>Example</u>: Command
 
 ```shell
+"""
+File name: `[File name]`
+"""
+
 # Command 1: [Comment.]
 [Command]
 
