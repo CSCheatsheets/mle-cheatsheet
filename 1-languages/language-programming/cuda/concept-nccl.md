@@ -2,22 +2,13 @@
 
 ## NCCL Collectives
 
-| Collective | Category |
-| ---------- | -------- |
-| Broadcast  | 
-| Reduce
-| Scatter
-| Gather
-| AllReduce
-| AllGather
+| Collective    | Category       |
+| :------------ | :------------- |
+| Broadcast     | `one-to-many`  |
+| Reduce        | `many-to-one`  |
+| Scatter       | `one-to-many`  |
+| Gather        | `many-to-one`  |
+| AllReduce     | `many-to-many` |
+| AllGather     | `many-to-many` |
 | ReduceScatter | `many-to-many` |
-| AllToAll
-
-- Broadcast
-- Reduce
-- Scatter
-- Gather
-- AllReduce
-- AllGather
-- ReduceScatter
-- AllToAll
+| AllToAll      | `many-to-many` |
