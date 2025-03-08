@@ -1,4 +1,4 @@
-# Docs
+# docs
 
 ## 1. linux
 
