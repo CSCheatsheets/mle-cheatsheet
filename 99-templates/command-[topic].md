@@ -16,6 +16,8 @@
 
 [Concise explanations of the command.]
 
+**Step 1**: [Concise explanations of this step.]
+
 <u>Example</u>: Command
 
 ```shell
@@ -35,3 +37,5 @@ File name: `[File name]`
 # Output 2
 [Output.]
 ```
+
+**Step 2**: [Concise explanations of this step.]
