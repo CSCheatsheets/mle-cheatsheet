@@ -22,16 +22,12 @@
 # Command 1: [Comment.]
 [Command]
 
-# Command 2: [Comment.]
-[Command]
-```
-
-<u>Example</u>: Output
-
-```text
-# Command 1: [Command]
+# Output 1
 [Output.]
 
-# Command 2: [Command]
+# Command 2: [Comment.]
+[Command]
+
+# Output 2
 [Output.]
 ```

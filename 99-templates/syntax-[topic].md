@@ -22,16 +22,12 @@
 # Syntax 1: [Comment.]
 [Syntax]
 
-# Syntax 2: [Comment.]
-[Syntax]
-```
-
-<u>Example</u>: Output
-
-```text
-# Syntax 1: [Syntax]
+# Output 1
 [Output.]
 
-# Syntax 2: [Syntax]
+# Syntax 2: [Comment.]
+[Syntax]
+
+# Output 2
 [Output.]
 ```
