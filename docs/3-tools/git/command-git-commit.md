@@ -8,3 +8,5 @@ commit message.
 ```shell
 git commit --amend
 ```
+
+**Step 2**: In the interactive shell, edit the commit message.

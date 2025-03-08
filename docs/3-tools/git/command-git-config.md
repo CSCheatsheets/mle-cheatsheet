@@ -96,5 +96,3 @@ git config --global user.name global-name
 # Command 4: Set global user email.
 git config --global user.email global-email
 ```
-
-**Step 2**: In the interactive shell, edit the commit message.
