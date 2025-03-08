@@ -6,8 +6,6 @@ Allow usage of specific HTML tags in markdown files.
 
 **JSON Configuration File (`.json` / `.jsonc`)**
 
-<u>Example</u>: Syntax
-
 ```json
 """
 File name: `.markdownlint.json` / `.markdownlint.jsonc`.

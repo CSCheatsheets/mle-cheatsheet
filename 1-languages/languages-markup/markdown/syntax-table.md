@@ -6,7 +6,6 @@
 
 By default, column titles are center-aligned, and column contents are left-aligned.
 
-<u>Example</u>: Syntax
 Syntax 1
 
 ```markdown
@@ -22,8 +21,6 @@ Output 1
 | Content        | Content        |
 
 ### Left-Aligned Columns
-
-<u>Example</u>: Syntax
 
 Syntax 1
 
@@ -41,8 +38,6 @@ Output 1
 
 ### Right-Aligned Columns
 
-<u>Example</u>: Syntax
-
 Syntax 1
 
 ```markdown
@@ -58,8 +53,6 @@ Output 1
 | Content 1      | Content 2      |
 
 ### Center-Aligned Columns
-
-<u>Example</u>: Syntax
 
 Syntax 1
 
