@@ -17,6 +17,7 @@
 Example: Syntax
 
 ```[Language]
+# [Comment]
 [Syntax]
 ```
 

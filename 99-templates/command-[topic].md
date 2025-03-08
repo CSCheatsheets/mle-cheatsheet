@@ -17,6 +17,7 @@
 Example: Command
 
 ```shell
+# [Comment]
 [Command]
 ```
 
