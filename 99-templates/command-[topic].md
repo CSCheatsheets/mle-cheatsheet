@@ -19,10 +19,19 @@
 <u>Example</u>: Command
 
 ```shell
-# [Comment]
-[Command.]
+# Command 1: [Comment.]
+[Command]
+
+# Command 2: [Comment.]
+[Command]
 ```
 
 <u>Example</u>: Output
 
+```text
+# Command 1: [Command]
 [Output.]
+
+# Command 2: [Command]
+[Output.]
+```
