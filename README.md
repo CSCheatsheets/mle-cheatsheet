@@ -1,16 +1,32 @@
 # menu
 
-- [linux](./0-linux/README.md)
+- 0-linux
   - [command-redirection](./0-linux/command-redirection.md)
-- [languages](./1-languages/README.md)
-  - [languages-markup](./1-languages/languages-markup/README.md)
-    - [markdown](./1-languages/languages-markup/markdown/README.md)
+- 1-languages
+  - languages-markup
+    - markdown
       - [concept-markdownlint](./1-languages/languages-markup/markdown/concept-markdownlint.md)
       - [syntax-markdownlint](./1-languages/languages-markup/markdown/syntax-markdownlint.md)
       - [syntax-table](./1-languages/languages-markup/markdown/syntax-table.md)
-      - 
-- [tools](./2-tools/README.md)
-- [services](./3-services/README.md)
-- [frameworks](./4-frameworks/README.md)
-- [libraries](./4-libraries/README.md)
-- [systems](./)
+  - languages-programming
+    - cuda
+      - [concept-nccl](./1-languages/languages-programming/cuda/concept-nccl.md)
+- 2-tools
+  - git
+    - [command-git-checkout](./2-tools/git/command-git-checkout.md)
+    - [command-git-commit](./2-tools/git/command-git-commit.md)
+    - [command-git-config](./2-tools/git/command-git-config.md)
+    - [command-git-merge](./2-tools/git/command-git-merge.md)
+    - [command-git-rebase](./2-tools/git/command-git-rebase.md)
+  - gitfarm
+    - [command-gitfarm](./2-tools/gitfarm/command-gitfarm.md)
+  - homebrew
+    - [command-homebrew](./2-tools/homebrew/command-homebrew.md)
+  - jekyll
+    - [command-jekyll](./2-tools/jekyll/command-jekyll.md)
+- 3-services
+- 4-frameworks
+- 4-libraries
+- 5-systems
+  - distributed-system
+    - [concept-parallellism](./5-systems/distributed-system/concept-parallelism.md)
