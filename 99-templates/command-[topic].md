@@ -28,10 +28,16 @@ File name: `[File name]`
 # Command 1: [Comment.]
 [Command]
 
+# Example 1
+[Command]
+
 # Output 1
 [Output.]
 
 # Command 2: [Comment.]
+[Command]
+
+# Example 2
 [Command]
 
 # Output 2

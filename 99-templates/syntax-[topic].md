@@ -28,10 +28,16 @@ File name: `[File name]`
 # Syntax 1: [Comment.]
 [Syntax]
 
+# Example 1
+[Syntax]
+
 # Output 1
 [Output.]
 
 # Syntax 2: [Comment.]
+[Syntax]
+
+# Example 2
 [Syntax]
 
 # Output 2
