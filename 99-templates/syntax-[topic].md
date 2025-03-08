@@ -19,10 +19,10 @@
 Example: Syntax
 
 ```[Language]
-# [Comment]
+# [Comment.]
 [Syntax]
 ```
 
 Example: Output
 
-[Output]
+[Output.]

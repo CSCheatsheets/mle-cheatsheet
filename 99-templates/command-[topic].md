@@ -20,9 +20,9 @@
 
 ```shell
 # [Comment]
-[Command]
+[Command.]
 ```
 
 <u>Example</u>: Output
 
-[Output]
+[Output.]
