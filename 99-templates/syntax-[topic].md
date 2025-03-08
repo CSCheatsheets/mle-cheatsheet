@@ -2,13 +2,15 @@
 
 ## [Title Level 1]
 
+[Concise explanations of the syntax.]
+
 ### [Title Level 2]
+
+[Concise explanations of the syntax.]
 
 #### [Title Level 3]
 
-##### [Title Level 4]
-
-###### [Title Level 5]
+[Concise explanations of the syntax.]
 
 **[Title Level X]**
 

@@ -2,25 +2,27 @@
 
 ## [Title Level 1]
 
+[Concise explanations of the command.]
+
 ### [Title Level 2]
+
+[Concise explanations of the command.]
 
 #### [Title Level 3]
 
-##### [Title Level 4]
-
-###### [Title Level 5]
+[Concise explanations of the command.]
 
 **[Title Level X]**
 
 [Concise explanations of the command.]
 
-Example: Command
+<u>Example</u>: Command
 
 ```shell
 # [Comment]
 [Command]
 ```
 
-Example: Output
+<u>Example</u>: Output
 
 [Output]
