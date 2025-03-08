@@ -18,8 +18,6 @@
 
 **Step 1**: [Concise explanations of this step.]
 
-<u>Example</u>: Command
-
 ```shell
 """
 File name: `[File name]`

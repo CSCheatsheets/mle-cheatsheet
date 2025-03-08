@@ -18,8 +18,6 @@
 
 **Step 1**: [Concise explanations of this step.]
 
-<u>Example</u>: Syntax
-
 ```[Language]
 """
 File name: `[File name]`
