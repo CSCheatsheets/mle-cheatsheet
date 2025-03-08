@@ -2,9 +2,10 @@
 
 ## Align Columns
 
-## Left-Aligned Columns
+## Default
 
-**Type 1: Default**
+By default, column titles are center-aligned, and column contents are left-aligned.
+
 Example: Syntax
 
 ```markdown
@@ -19,7 +20,8 @@ Example: Output
 | -------------- | -------------- |
 | Content        | Content        |
 
-**Type 2: Colon**
+## Left-Aligned Columns
+
 Example: Syntax
 
 ```markdown
