@@ -1,0 +1,19 @@
+# `[Topic]`/[Topic] - Command Bug
+
+## [Title Level 1]
+
+[Concise explanations of the bug.]
+
+**Trackback**: [Content.]
+
+```[Language]
+[Traceback.]
+```
+
+**Solution 1**: [Content.]
+
+[`reference`](link_to_reference)
+
+**Solution 2**: [Content.]
+
+[`reference`](link_to_reference)
