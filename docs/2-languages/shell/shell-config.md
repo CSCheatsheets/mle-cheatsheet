@@ -1,4 +1,4 @@
-# Config - Shell
+# Shell - Config
 
 ## Shell Configuration
 
