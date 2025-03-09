@@ -19,5 +19,3 @@ echo "Hello World!" > ./hello.txt
 # Example
 echo "Hello World!" >> ./hello.txt
 ```
-
-Add this
