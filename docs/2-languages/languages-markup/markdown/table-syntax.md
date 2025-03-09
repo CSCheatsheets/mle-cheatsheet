@@ -1,4 +1,4 @@
-# Syntax - Table
+# Table - Syntax
 
 ## Align Columns
 

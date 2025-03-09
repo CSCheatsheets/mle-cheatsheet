@@ -1,4 +1,4 @@
-# Syntax - Language Identifier
+# Language Identifier - Syntax
 
 ## Configuration Syntax
 

@@ -1,4 +1,4 @@
-# Concept - `markdownlint`
+# `markdownlint` - Concept
 
 ## Configuration File Categories
 

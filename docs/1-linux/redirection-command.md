@@ -1,4 +1,4 @@
-# Command - Redirection
+# Redirection - Command
 
 ## Redirect Console Outputs to Overwrite a File
 

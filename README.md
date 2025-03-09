@@ -2,7 +2,7 @@
 
 ## 1. linux
 
-- [command-redirection](./docs/1-linux/command-redirection.md)
+- [redirection-command](./docs/1-linux/redirection-command.md)
 
 ## 2. languages
 
@@ -10,10 +10,10 @@
 
 #### 2.1.1. markdown
 
-- [concept-markdownlint](./docs/2-languages/languages-markup/markdown/concept-markdownlint.md)
-- [syntax-language-identifier](./docs/2-languages/languages-markup/markdown/syntax-language-identifier.md)
-- [syntax-markdownlint](./docs/2-languages/languages-markup/markdown/syntax-markdownlint.md)
-- [syntax-table](./docs/2-languages/languages-markup/markdown/syntax-table.md)
+- [language-identifier-syntax](./docs/2-languages/languages-markup/markdown/language-identifier-syntax.md)
+- [markdownlint-concept](./docs/2-languages/languages-markup/markdown/markdownlint-concept.md)
+- [markdownlint-syntax](./docs/2-languages/languages-markup/markdown/markdownlint-syntax.md)
+- [table-syntax](./docs/2-languages/languages-markup/markdown/table-syntax.md)
 
 ### 2.2. languages-programming
 

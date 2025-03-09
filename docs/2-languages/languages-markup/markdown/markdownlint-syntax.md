@@ -1,4 +1,4 @@
-# Syntax - `markdownlint`
+# `markdownlint` - Syntax
 
 ## MD033: _no-inline-html_ - Inline HTML
 
