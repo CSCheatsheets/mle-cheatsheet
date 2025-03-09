@@ -38,19 +38,15 @@
 - [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
 - [git-remote-command](./docs/3-tools/git/git-remote-command.md)
 
-### 3.2. gitfarm
-
-- [gitfarm-command](./docs/3-tools/gitfarm/gitfarm-command.md)
-
-### 3.3. homebrew
+### 3.2. homebrew
 
 - [homebrew-command](./docs/3-tools/homebrew/homebrew-command.md)
 
-### 3.4. huggingface
+### 3.3. huggingface
 
 - [huggingface-syntax-bug](./docs/3-tools/huggingface/huggingface-syntax-bug.md)
 
-### 3.5. jekyll
+### 3.4. jekyll
 
 - [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
 
