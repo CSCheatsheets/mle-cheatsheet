@@ -24,6 +24,8 @@ File name: `[File name]`
 
 # Syntax 1: [Comment.]
 [Syntax]
+# or
+[Syntax]
 
 # Example 1
 [Syntax]
@@ -32,6 +34,8 @@ File name: `[File name]`
 [Output.]
 
 # Syntax 2: [Comment.]
+[Syntax]
+# or
 [Syntax]
 
 # Example 2

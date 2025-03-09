@@ -17,13 +17,13 @@ process_directory() {
         # Needs a .gitkeep
         if [ "$has_gitkeep" = false ]; then
             touch "$gitkeep_path"
-            echo "Added .gitkeep to $dir_path"
+            echo ">>>>> Added .gitkeep to $dir_path"
         fi
     else
         # Should remove .gitkeep
         if [ "$has_gitkeep" = true ]; then
             rm "$gitkeep_path"
-            echo "Removed .gitkeep from $dir_path"
+            echo ">>>>> Removed .gitkeep from $dir_path"
         fi
     fi
 
@@ -36,4 +36,4 @@ process_directory() {
 # Start processing from the docs folder
 process_directory "docs"
 
-echo "Complete adding and removing .gitkeep files."
+echo ">>>>> Complete adding and removing .gitkeep files."

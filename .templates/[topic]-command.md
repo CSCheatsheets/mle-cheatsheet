@@ -24,6 +24,8 @@ File name: `[File name]`
 
 # Command 1: [Comment.]
 [Command]
+# or
+[Command]
 
 # Example 1
 [Command]
@@ -32,6 +34,8 @@ File name: `[File name]`
 [Output.]
 
 # Command 2: [Comment.]
+[Command]
+# or
 [Command]
 
 # Example 2

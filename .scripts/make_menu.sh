@@ -81,4 +81,4 @@ echo "" >> "$OUTPUT_FILE"
 # Generate the tree for the "docs" folder, starting with header level 2 and an empty prefix.
 generate_tree "docs" 2 ""
 
-echo "Complete generating the doc menu in $OUTPUT_FILE"
+echo ">>>>> Complete generating the doc menu in $OUTPUT_FILE"
