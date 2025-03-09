@@ -16,19 +16,9 @@
 
 ### 2.2. languages-programming
 
-#### 2.2.1. assembly
-
-#### 2.2.2. c
-
-#### 2.2.3. cpp
-
-#### 2.2.4. cuda
+#### 2.2.1. cuda
 
 - [concept-nccl](./docs/2-languages/languages-programming/cuda/concept-nccl.md)
-
-#### 2.2.5. python
-
-### 2.3. languages-shell
 
 ## 3. tools
 
@@ -55,10 +45,6 @@
 ## 4. services
 
 ## 5. frameworks
-
-### 5.1. pytorch
-
-### 5.2. tensorflow
 
 ## 6. libraries
 
