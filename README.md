@@ -4,7 +4,6 @@
 
 - [ada-command](./docs/1-linux/ada-command.md)
 - [aws-command](./docs/1-linux/aws-command.md)
-- [brazil-command](./docs/1-linux/brazil-command.md)
 - [redirection-command](./docs/1-linux/redirection-command.md)
 
 ## 2. languages
@@ -37,6 +36,7 @@
 - [git-config-command](./docs/3-tools/git/git-config-command.md)
 - [git-merge-command](./docs/3-tools/git/git-merge-command.md)
 - [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
+- [git-remote-command](./docs/3-tools/git/git-remote-command.md)
 
 ### 3.2. gitfarm
 
