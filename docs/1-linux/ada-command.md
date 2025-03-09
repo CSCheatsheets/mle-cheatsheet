@@ -12,8 +12,8 @@ Print the identity information of the current ADA account/credential.
 ada cred(entials) print --account [account_id] --role [role_type]
 
 # Example
-ada cred print --account 1234567 --role admin
-ada credentials print --account 1234567 --role admin
+ada cred print --account 1234567 --role Admin
+ada credentials print --account 1234567 --role Admin
 ```
 
 ## Update the Current ADA Credential
@@ -29,7 +29,7 @@ ada cred(entials) update \
 # Example
 ada cred update \
     --account 1234567 \
-    --role admin \
+    --role Admin \
     --provider Isengard \
     --once
 ```
