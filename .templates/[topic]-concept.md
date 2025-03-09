@@ -1,4 +1,4 @@
-# Concept - `[Topic]`/[Topic]
+# `[Topic]`/[Topic] - Concept
 
 ## [Title Level 1]
 

@@ -1,4 +1,4 @@
-# Syntax Bug - `[Topic]`/[Topic]
+# `[Topic]`/[Topic] - Syntax Bug
 
 ## [Title Level 1]
 

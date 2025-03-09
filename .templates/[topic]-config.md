@@ -1,4 +1,4 @@
-# Config - `[Topic]`/[Topic]
+# `[Topic]`/[Topic] - Config
 
 ## [Title Level 1]
 

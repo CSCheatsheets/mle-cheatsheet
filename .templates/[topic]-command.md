@@ -1,4 +1,4 @@
-# Command - `[Topic]`/[Topic]
+# `[Topic]`/[Topic] - Command
 
 ## [Title Level 1]
 

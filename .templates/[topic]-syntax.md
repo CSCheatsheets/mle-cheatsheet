@@ -1,4 +1,4 @@
-# Syntax - `[Topic]`/[Topic]
+# `[Topic]`/[Topic] - Syntax
 
 ## [Title Level 1]
 
