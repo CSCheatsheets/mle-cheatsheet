@@ -41,7 +41,7 @@ File name: `[File name]`
 [Output.]
 ```
 
-[`reference`](link_to_reference)
+[`reference`](link_to_reference)|[`example`](link_to_example)
 
 **Step 2**: [Concise explanations of this step.]
 
