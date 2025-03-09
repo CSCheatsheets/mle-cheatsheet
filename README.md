@@ -11,6 +11,7 @@
 #### 2.1.1. markdown
 
 - [concept-markdownlint](./docs/2-languages/languages-markup/markdown/concept-markdownlint.md)
+- [syntax-language-identifier](./docs/2-languages/languages-markup/markdown/syntax-language-identifier.md)
 - [syntax-markdownlint](./docs/2-languages/languages-markup/markdown/syntax-markdownlint.md)
 - [syntax-table](./docs/2-languages/languages-markup/markdown/syntax-table.md)
 
@@ -19,6 +20,10 @@
 #### 2.2.1. cuda
 
 - [concept-nccl](./docs/2-languages/languages-programming/cuda/concept-nccl.md)
+
+### 2.3. languages-shell
+
+- [config-shell](./docs/2-languages/languages-shell/config-shell.md)
 
 ## 3. tools
 
@@ -53,3 +58,7 @@
 ### 7.1. distributed-system
 
 - [concept-parallelism](./docs/7-systems/distributed-system/concept-parallelism.md)
+
+### 7.2. hpc-system
+
+- [concept-scalability](./docs/7-systems/hpc-system/concept-scalability.md)
