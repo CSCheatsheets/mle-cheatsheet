@@ -43,7 +43,11 @@
 
 - [command-homebrew](./docs/3-tools/homebrew/command-homebrew.md)
 
-### 3.4. jekyll
+### 3.4. huggingface
+
+- [syntax-bug-huggingface](./docs/3-tools/huggingface/syntax-bug-huggingface.md)
+
+### 3.5. jekyll
 
 - [command-jekyll](./docs/3-tools/jekyll/command-jekyll.md)
 
