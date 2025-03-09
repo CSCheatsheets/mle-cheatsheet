@@ -43,7 +43,7 @@ alias c="clear"
 # Editor Shortcut
 alias e=emacs
 
-# Amazon Brazil Shortcut
+# Brazil Shortcut
 alias bb="brazil-build"
 alias bba='brazil-build apollo-pkg'
 alias bre='brazil-runtime-exec'
