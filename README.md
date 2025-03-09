@@ -4,6 +4,7 @@
 
 - [ada-command](./docs/1-linux/ada-command.md)
 - [aws-command](./docs/1-linux/aws-command.md)
+- [brazil-command](./docs/1-linux/brazil-command.md)
 - [redirection-command](./docs/1-linux/redirection-command.md)
 
 ## 2. languages
