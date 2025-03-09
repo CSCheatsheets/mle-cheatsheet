@@ -1,4 +1,4 @@
-# Command - `git commit`
+# `git commit` - Command
 
 ## Edit Commit Message
 

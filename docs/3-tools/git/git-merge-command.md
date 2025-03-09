@@ -1,4 +1,4 @@
-# Command - `git merge`
+# `git merge` - Command
 
 ## Merge a Branch to Main Branch
 

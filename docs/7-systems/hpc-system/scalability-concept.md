@@ -1,4 +1,4 @@
-# Concept - Scalability
+# Scalability - Concept
 
 ## Strong Scalability
 

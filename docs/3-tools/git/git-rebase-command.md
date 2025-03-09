@@ -1,4 +1,4 @@
-# Command - `git rebase`
+# `git rebase` - Command
 
 ## Merge Multiple Commits
 

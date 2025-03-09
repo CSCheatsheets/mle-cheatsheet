@@ -1,4 +1,4 @@
-# Command - `gitfarm`
+# `gitfarm` - Command
 
 ## Push to a Share Branch
 

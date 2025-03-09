@@ -1,4 +1,4 @@
-# Command - `git checkout`
+# `git checkout` - Command
 
 ## Create an Orphan Branch
 

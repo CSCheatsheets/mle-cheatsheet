@@ -1,4 +1,4 @@
-# Command - `git config`
+# `git config` - Command
 
 ## Show Git Config
 

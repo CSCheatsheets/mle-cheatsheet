@@ -29,27 +29,27 @@
 
 ### 3.1. git
 
-- [command-git-checkout](./docs/3-tools/git/command-git-checkout.md)
-- [command-git-commit](./docs/3-tools/git/command-git-commit.md)
-- [command-git-config](./docs/3-tools/git/command-git-config.md)
-- [command-git-merge](./docs/3-tools/git/command-git-merge.md)
-- [command-git-rebase](./docs/3-tools/git/command-git-rebase.md)
+- [git-checkout-command](./docs/3-tools/git/git-checkout-command.md)
+- [git-commit-command](./docs/3-tools/git/git-commit-command.md)
+- [git-config-command](./docs/3-tools/git/git-config-command.md)
+- [git-merge-command](./docs/3-tools/git/git-merge-command.md)
+- [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
 
 ### 3.2. gitfarm
 
-- [command-gitfarm](./docs/3-tools/gitfarm/command-gitfarm.md)
+- [gitfarm-command](./docs/3-tools/gitfarm/gitfarm-command.md)
 
 ### 3.3. homebrew
 
-- [command-homebrew](./docs/3-tools/homebrew/command-homebrew.md)
+- [homebrew-command](./docs/3-tools/homebrew/homebrew-command.md)
 
 ### 3.4. huggingface
 
-- [syntax-bug-huggingface](./docs/3-tools/huggingface/syntax-bug-huggingface.md)
+- [huggingface-syntax-bug](./docs/3-tools/huggingface/huggingface-syntax-bug.md)
 
 ### 3.5. jekyll
 
-- [command-jekyll](./docs/3-tools/jekyll/command-jekyll.md)
+- [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
 
 ## 4. services
 
@@ -61,8 +61,8 @@
 
 ### 7.1. distributed-system
 
-- [concept-parallelism](./docs/7-systems/distributed-system/concept-parallelism.md)
+- [parallelism-concept](./docs/7-systems/distributed-system/parallelism-concept.md)
 
 ### 7.2. hpc-system
 
-- [concept-scalability](./docs/7-systems/hpc-system/concept-scalability.md)
+- [scalability-concept](./docs/7-systems/hpc-system/scalability-concept.md)

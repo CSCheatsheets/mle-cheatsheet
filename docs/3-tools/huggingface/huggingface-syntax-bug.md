@@ -1,4 +1,4 @@
-# Syntax Bug - HuggingFace
+# HuggingFace - Syntax Bug
 
 ## `requests.exceptions.HTTPError`
 

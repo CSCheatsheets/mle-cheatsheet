@@ -1,4 +1,4 @@
-# Command - `jekyll`
+# `jekyll` - Command
 
 ## Create a New Jekyll Page
 
