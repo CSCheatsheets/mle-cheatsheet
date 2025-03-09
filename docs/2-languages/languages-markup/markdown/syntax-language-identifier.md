@@ -1,4 +1,4 @@
-# Syntax - `language identifier`
+# Syntax - Language Identifier
 
 ## Configuration Syntax
 

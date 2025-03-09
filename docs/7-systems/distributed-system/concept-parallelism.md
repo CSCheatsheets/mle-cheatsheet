@@ -1,4 +1,4 @@
-# Concept - `Parallelism`
+# Concept - Parallelism
 
 ## Parallelism Paradigms
 

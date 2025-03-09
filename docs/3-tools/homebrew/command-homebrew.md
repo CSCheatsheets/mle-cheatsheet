@@ -1,4 +1,4 @@
-# Command - `Homebrew`
+# Command - `homebrew`
 
 ## Update Homebrew
 

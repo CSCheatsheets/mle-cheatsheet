@@ -1,4 +1,4 @@
-# Concept - `NCCL`
+# Concept - `nccl`
 
 ## NCCL Collectives
 
