@@ -13,7 +13,6 @@
 [Concise explanations of the concept.]
 
 **[Title Level X]**
-
 [Concise explanations of the concept.]
 
 [Contents.]

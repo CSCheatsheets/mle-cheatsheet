@@ -13,7 +13,6 @@
 [Concise explanations of the config.]
 
 **[Title Level X]**
-
 [Concise explanations of the config.]
 
 ```conf

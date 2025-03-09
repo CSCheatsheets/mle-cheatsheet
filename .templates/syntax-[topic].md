@@ -13,7 +13,6 @@
 [Concise explanations of the syntax.]
 
 **[Title Level X]**
-
 [Concise explanations of the syntax.]
 
 **Step 1**: [Concise explanations of this step.]

@@ -13,7 +13,6 @@
 [Concise explanations of the command.]
 
 **[Title Level X]**
-
 [Concise explanations of the command.]
 
 **Step 1**: [Concise explanations of this step.]
