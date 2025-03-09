@@ -1,0 +1,6 @@
+Contributing Guidelines
+
+- Fork the `main` branch of this repo.
+- Add changes under `docs` directory.
+- Run `run_make.sh` in the `root` directory to apply automatic scanning and linting.
+- Create a PR to the `main` branch of this repo.
