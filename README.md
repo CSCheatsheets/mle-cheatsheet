@@ -11,6 +11,13 @@
 
 - [redirection-command](./docs/1-linux/io/redirection-command.md)
 
+### 1.3. os
+
+- [installation-command](./docs/1-linux/os/installation-command.md)
+- [os-command](./docs/1-linux/os/os-command.md)
+- [pci-command](./docs/1-linux/os/pci-command.md)
+- [process-command](./docs/1-linux/os/process-command.md)
+
 ## 2. languages
 
 ### 2.1. markup
