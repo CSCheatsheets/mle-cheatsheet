@@ -44,3 +44,11 @@ File name: `[File name]`
 [`reference`](link_to_reference)
 
 **Step 2**: [Concise explanations of this step.]
+
+#### Integrated Example: [Example Title]
+
+[Concise explanations of the example.]
+
+```shell
+[Example]
+```

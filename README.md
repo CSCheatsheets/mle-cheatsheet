@@ -2,8 +2,6 @@
 
 ## 1. linux
 
-- [ada-command](./docs/1-linux/ada-command.md)
-- [aws-command](./docs/1-linux/aws-command.md)
 - [redirection-command](./docs/1-linux/redirection-command.md)
 
 ## 2. languages
@@ -29,7 +27,15 @@
 
 ## 3. tools
 
-### 3.1. git
+### 3.1. ada
+
+- [ada-command](./docs/3-tools/ada/ada-command.md)
+
+### 3.2. aws
+
+- [aws-command](./docs/3-tools/aws/aws-command.md)
+
+### 3.3. git
 
 - [git-checkout-command](./docs/3-tools/git/git-checkout-command.md)
 - [git-commit-command](./docs/3-tools/git/git-commit-command.md)
@@ -38,15 +44,15 @@
 - [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
 - [git-remote-command](./docs/3-tools/git/git-remote-command.md)
 
-### 3.2. homebrew
+### 3.4. homebrew
 
 - [homebrew-command](./docs/3-tools/homebrew/homebrew-command.md)
 
-### 3.3. huggingface
+### 3.5. huggingface
 
 - [huggingface-syntax-bug](./docs/3-tools/huggingface/huggingface-syntax-bug.md)
 
-### 3.4. jekyll
+### 3.6. jekyll
 
 - [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
 
