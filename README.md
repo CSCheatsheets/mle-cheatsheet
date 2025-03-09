@@ -6,24 +6,24 @@
 
 ## 2. languages
 
-### 2.1. languages-markup
+### 2.1. markup
 
 #### 2.1.1. markdown
 
-- [language-identifier-syntax](./docs/2-languages/languages-markup/markdown/language-identifier-syntax.md)
-- [markdownlint-concept](./docs/2-languages/languages-markup/markdown/markdownlint-concept.md)
-- [markdownlint-syntax](./docs/2-languages/languages-markup/markdown/markdownlint-syntax.md)
-- [table-syntax](./docs/2-languages/languages-markup/markdown/table-syntax.md)
+- [language-identifier-syntax](./docs/2-languages/markup/markdown/language-identifier-syntax.md)
+- [markdownlint-concept](./docs/2-languages/markup/markdown/markdownlint-concept.md)
+- [markdownlint-syntax](./docs/2-languages/markup/markdown/markdownlint-syntax.md)
+- [table-syntax](./docs/2-languages/markup/markdown/table-syntax.md)
 
-### 2.2. languages-programming
+### 2.2. programming
 
 #### 2.2.1. cuda
 
-- [concept-nccl](./docs/2-languages/languages-programming/cuda/concept-nccl.md)
+- [nccl-concept](./docs/2-languages/programming/cuda/nccl-concept.md)
 
-### 2.3. languages-shell
+### 2.3. shell
 
-- [config-shell](./docs/2-languages/languages-shell/config-shell.md)
+- [shell-config](./docs/2-languages/shell/shell-config.md)
 
 ## 3. tools
 
