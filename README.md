@@ -2,6 +2,7 @@
 
 ## 1. linux
 
+- [ada-command](./docs/1-linux/ada-command.md)
 - [redirection-command](./docs/1-linux/redirection-command.md)
 
 ## 2. languages
