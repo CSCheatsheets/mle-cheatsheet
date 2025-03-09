@@ -1,8 +1,6 @@
 # Shell - Config
 
-## Shell Configuration
-
-Useful configurations for `zsh`.
+Useful configurations for shell.
 
 ```conf
 # File System Shortcut
