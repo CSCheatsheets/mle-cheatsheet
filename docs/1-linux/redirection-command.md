@@ -19,3 +19,15 @@ echo "Hello World!" > ./hello.txt
 # Example
 echo "Hello World!" >> ./hello.txt
 ```
+
+## Redirect `stdout` and `stderr` into Separate Files
+
+```shell
+foo > stdout.log 2> stderr.log
+```
+
+## Redirect `stdout` and `stderr` into One File
+
+```shell
+foo > stdout.log 2>&1
+```
