@@ -2,9 +2,14 @@
 
 ## 1. linux
 
-- [ada-command](./docs/1-linux/ada-command.md)
-- [aws-command](./docs/1-linux/aws-command.md)
-- [redirection-command](./docs/1-linux/redirection-command.md)
+### 1.1. file-system
+
+- [basename-command](./docs/1-linux/file-system/basename-command.md)
+- [realpath-command](./docs/1-linux/file-system/realpath-command.md)
+
+### 1.2. io
+
+- [redirection-command](./docs/1-linux/io/redirection-command.md)
 
 ## 2. languages
 
@@ -25,11 +30,25 @@
 
 ### 2.3. shell
 
+- [shell-condition-syntax](./docs/2-languages/shell/shell-condition-syntax.md)
 - [shell-config](./docs/2-languages/shell/shell-config.md)
+- [shell-loop-syntax](./docs/2-languages/shell/shell-loop-syntax.md)
 
 ## 3. tools
 
-### 3.1. git
+### 3.1. ada
+
+- [ada-command](./docs/3-tools/ada/ada-command.md)
+
+### 3.2. aws
+
+- [aws-command](./docs/3-tools/aws/aws-command.md)
+
+### 3.3. conda
+
+- [conda-command](./docs/3-tools/conda/conda-command.md)
+
+### 3.4. git
 
 - [git-checkout-command](./docs/3-tools/git/git-checkout-command.md)
 - [git-commit-command](./docs/3-tools/git/git-commit-command.md)
@@ -38,19 +57,15 @@
 - [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
 - [git-remote-command](./docs/3-tools/git/git-remote-command.md)
 
-### 3.2. gitfarm
-
-- [gitfarm-command](./docs/3-tools/gitfarm/gitfarm-command.md)
-
-### 3.3. homebrew
+### 3.5. homebrew
 
 - [homebrew-command](./docs/3-tools/homebrew/homebrew-command.md)
 
-### 3.4. huggingface
+### 3.6. huggingface
 
 - [huggingface-syntax-bug](./docs/3-tools/huggingface/huggingface-syntax-bug.md)
 
-### 3.5. jekyll
+### 3.7. jekyll
 
 - [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
 

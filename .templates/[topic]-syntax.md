@@ -24,6 +24,8 @@ File name: `[File name]`
 
 # Syntax 1: [Comment.]
 [Syntax]
+# or
+[Syntax]
 
 # Example 1
 [Syntax]
@@ -33,6 +35,8 @@ File name: `[File name]`
 
 # Syntax 2: [Comment.]
 [Syntax]
+# or
+[Syntax]
 
 # Example 2
 [Syntax]
@@ -41,4 +45,14 @@ File name: `[File name]`
 [Output.]
 ```
 
+[`reference`](link_to_reference)|[`example`](link_to_example)
+
 **Step 2**: [Concise explanations of this step.]
+
+#### Integrated Example: [Example Title]
+
+[Concise explanations of the example.]
+
+```shell
+[Example]
+```

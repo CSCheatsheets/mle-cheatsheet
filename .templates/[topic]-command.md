@@ -24,6 +24,8 @@ File name: `[File name]`
 
 # Command 1: [Comment.]
 [Command]
+# or
+[Command]
 
 # Example 1
 [Command]
@@ -33,6 +35,8 @@ File name: `[File name]`
 
 # Command 2: [Comment.]
 [Command]
+# or
+[Command]
 
 # Example 2
 [Command]
@@ -41,4 +45,14 @@ File name: `[File name]`
 [Output.]
 ```
 
+[`reference`](link_to_reference)|[`example`](link_to_example)
+
 **Step 2**: [Concise explanations of this step.]
+
+#### Integrated Example: [Example Title]
+
+[Concise explanations of the example.]
+
+```shell
+[Example]
+```
