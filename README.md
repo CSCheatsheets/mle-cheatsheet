@@ -35,6 +35,10 @@
 
 - [nccl-concept](./docs/2-languages/programming/cuda/nccl-concept.md)
 
+#### 2.2.2. python
+
+- [vars-syntax](./docs/2-languages/programming/python/vars-syntax.md)
+
 ### 2.3. shell
 
 - [shell-condition-syntax](./docs/2-languages/shell/shell-condition-syntax.md)
@@ -75,6 +79,10 @@
 ### 3.7. jekyll
 
 - [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
+
+### 3.8. vim
+
+- [move-cursor-shortcut](./docs/3-tools/vim/move-cursor-shortcut.md)
 
 ## 4. services
 
