@@ -37,6 +37,7 @@
 
 #### 2.2.2. python
 
+- [typing-syntax](./docs/2-languages/programming/python/typing-syntax.md)
 - [vars-syntax](./docs/2-languages/programming/python/vars-syntax.md)
 
 ### 2.3. shell
