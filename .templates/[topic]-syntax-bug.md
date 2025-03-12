@@ -4,6 +4,12 @@
 
 [Concise explanations of the bug.]
 
+**Error Message**: [Content.]
+
+```text
+[Error Message.]
+```
+
 **Trackback**: [Content.]
 
 ```[Language]

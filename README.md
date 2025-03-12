@@ -62,10 +62,13 @@
 
 ### 3.4. git
 
+- [git-add-command](./docs/3-tools/git/git-add-command.md)
 - [git-checkout-command](./docs/3-tools/git/git-checkout-command.md)
 - [git-commit-command](./docs/3-tools/git/git-commit-command.md)
 - [git-config-command](./docs/3-tools/git/git-config-command.md)
+- [git-diff-command](./docs/3-tools/git/git-diff-command.md)
 - [git-merge-command](./docs/3-tools/git/git-merge-command.md)
+- [git-push-command-bug](./docs/3-tools/git/git-push-command-bug.md)
 - [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
 - [git-remote-command](./docs/3-tools/git/git-remote-command.md)
 
@@ -83,6 +86,7 @@
 
 ### 3.8. vim
 
+- [file-name-shortcut](./docs/3-tools/vim/file-name-shortcut.md)
 - [move-cursor-shortcut](./docs/3-tools/vim/move-cursor-shortcut.md)
 
 ## 4. services
