@@ -18,6 +18,10 @@
 - [pci-command](./docs/1-linux/os/pci-command.md)
 - [process-command](./docs/1-linux/os/process-command.md)
 
+### 1.4. packages
+
+- [deb-command](./docs/1-linux/packages/deb-command.md)
+
 ## 2. languages
 
 ### 2.1. markup
