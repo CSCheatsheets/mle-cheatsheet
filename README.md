@@ -10,5 +10,9 @@
 
 ## 3. frameworks
 
+### 3.1. neuron
+
+- [collectives-command](./docs/3-frameworks/neuron/collectives-command.md)
+
 ## 4. libraries
 
